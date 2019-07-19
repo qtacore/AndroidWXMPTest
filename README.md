@@ -17,7 +17,8 @@ python manage.py runtest demotest.hello
 
 ### Demo说明
 本工程使用了[wxmplib][1]提供的微信小程序自动化接口，该项目提供了：微信登录、登录弹框处理以及打开小程序的接口。项目目录结构如下所示：
-![enter description here][2]
+
+![][2]
 
 demolib用于存放测试基类及小程序的页面封装。对于小程序而言需要将每次跳转封装一个WXMPPage，例如示例程序的Text页面可以放装如下：
 ```python
