@@ -1,0 +1,6 @@
+qtaf
+qt4a
+qt4w
+chrome_master
+wxmplib
+
